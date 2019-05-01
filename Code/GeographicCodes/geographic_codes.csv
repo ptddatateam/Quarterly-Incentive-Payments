@@ -1,0 +1,291 @@
+COUNTY_NAME,COUNTYFP,PLACE_NAME,PLACEFP,PLACEFP90,PLACENS,PLACENS_TIGER,PLACENS_NAME,PART_FLAG
+Adams,001,Hatton,30060,0555,2412736,02412736,Town of Hatton,NO
+Adams,001,Lind,39510,0685,2412899,02412899,Town of Lind,NO
+Adams,001,Othello,52215,0945,2411341,02411341,City of Othello,NO
+Adams,001,Ritzville,58725,1090,2410959,02410959,City of Ritzville,NO
+Adams,001,Washtucna,76440,1390,2413453,02413453,Town of Washtucna,NO
+Asotin,003,Asotin,03075,0050,2409742,02409742,City of Asotin,NO
+Asotin,003,Clarkston,12630,0215,2409469,02409469,City of Clarkston,NO
+Benton,005,Benton City,05560,0085,2409836,02409836,City of Benton City,NO
+Benton,005,Kennewick,35275,0610,2410184,02410184,City of Kennewick,NO
+Benton,005,Prosser,56450,1020,2411497,02411497,City of Prosser,NO
+Benton,005,Richland,58235,1080,2410937,02410937,City of Richland,NO
+Benton,005,West Richland,77665,1425,2412227,02412227,City of West Richland,NO
+Chelan,007,Cashmere,10495,0165,2409405,02409405,City of Cashmere,NO
+Chelan,007,Chelan,11615,0195,2409440,02409440,City of Chelan,NO
+Chelan,007,Entiat,22010,0405,2410447,02410447,City of Entiat,NO
+Chelan,007,Leavenworth,38845,0680,2410814,02410814,City of Leavenworth,NO
+Chelan,007,Wenatchee,77105,1405,2412212,02412212,City of Wenatchee,NO
+Clallam,009,Forks,24810,0465,2410520,02410520,City of Forks,NO
+Clallam,009,Port Angeles,55365,0990,2411459,02411459,City of Port Angeles,NO
+Clallam,009,Sequim,63385,1160,2411868,02411868,City of Sequim,NO
+Clark,011,Battle Ground,04475,0060,2409796,02409796,City of Battle Ground,NO
+Clark,011,Camas,09480,0145,2409967,02409967,City of Camas,NO
+Clark,011,La Center,36710,0640,2411566,02411566,City of La Center,NO
+Clark,011,Ridgefield,58410,1085,2410945,02410945,City of Ridgefield,NO
+Clark,011,Vancouver,74060,1350,2412146,02412146,City of Vancouver,NO
+Clark,011,Washougal,76405,1385,2412189,02412189,City of Washougal,NO
+Clark,011,Woodland,79625,1470,2412301,02412301,City of Woodland,YES
+Clark,011,Yacolt,79975,1480,2413517,02413517,Town of Yacolt,NO
+Columbia,013,Dayton,16970,0315,2410301,02410301,City of Dayton,NO
+Columbia,013,Starbuck,67490,1240,2413330,02413330,Town of Starbuck,NO
+Cowlitz,015,Castle Rock,10565,0170,2409409,02409409,City of Castle Rock,NO
+Cowlitz,015,Kalama,34645,0600,2410160,02410160,City of Kalama,NO
+Cowlitz,015,Kelso,35065,0605,2410174,02410174,City of Kelso,NO
+Cowlitz,015,Longview,40245,0695,2410871,02410871,City of Longview,NO
+Cowlitz,015,Woodland,79625,1470,2412301,02412301,City of Woodland,YES
+Douglas,017,Bridgeport,07870,0125,2409908,02409908,City of Bridgeport,NO
+Douglas,017,Coulee Dam,15115,0280,2413249,02413249,Town of Coulee Dam,YES
+Douglas,017,East Wenatchee,20155,0350,2410391,02410391,City of East Wenatchee,NO
+Douglas,017,Mansfield,42800,0735,2412946,02412946,Town of Mansfield,NO
+Douglas,017,Rock Island,59180,1105,2410975,02410975,City of Rock Island,NO
+Douglas,017,Waterville,76510,1395,2413455,02413455,Town of Waterville,NO
+Ferry,019,Republic,57850,1075,2410927,02410927,City of Republic,NO
+Franklin,021,Connell,14485,0265,2410216,02410216,City of Connell,NO
+Franklin,021,Kahlotus,34575,0595,2410159,02410159,City of Kahlotus,NO
+Franklin,021,Mesa,45180,0765,2411088,02411088,City of Mesa,NO
+Franklin,021,Pasco,53545,0960,2411381,02411381,City of Pasco,NO
+Garfield,023,Pomeroy,55120,0985,2411453,02411453,City of Pomeroy,NO
+Grant,025,Coulee City,15080,0275,2413248,02413248,Town of Coulee City,NO
+Grant,025,Coulee Dam,15115,0280,2413249,02413249,Town of Coulee Dam,YES
+Grant,025,Electric City,21030,0375,2412472,02412472,City of Electric City,NO
+Grant,025,Ephrata,22080,0415,2410450,02410450,City of Ephrata,NO
+Grant,025,George,26455,0489,2410581,02410581,City of George,NO
+Grant,025,Grand Coulee,27855,0510,2410630,02410630,City of Grand Coulee,NO
+Grant,025,Hartline,29920,0550,2412729,02412729,Town of Hartline,NO
+Grant,025,Krupp,36395,0635,2412849,02412849,Town of Krupp,NO
+Grant,025,Mattawa,44165,0750,2412963,02412963,City of Mattawa,NO
+Grant,025,Moses Lake,47245,0805,2411173,02411173,City of Moses Lake,NO
+Grant,025,Quincy,57115,1040,2411507,02411507,City of Quincy,NO
+Grant,025,Royal City,60230,1127,2411011,02411011,City of Royal City,NO
+Grant,025,Soap Lake,65345,1190,2411918,02411918,City of Soap Lake,NO
+Grant,025,Warden,76160,1380,2412179,02412179,City of Warden,NO
+Grant,025,Wilson Creek,79135,1450,2413492,02413492,Town of Wilson Creek,NO
+Grays Harbor,027,Aberdeen,00100,0005,2409655,02409655,City of Aberdeen,NO
+Grays Harbor,027,Cosmopolis,14870,0270,2410238,02410238,City of Cosmopolis,NO
+Grays Harbor,027,Elma,21450,0385,2410431,02410431,City of Elma,NO
+Grays Harbor,027,Hoquiam,32300,0560,2410792,02410792,City of Hoquiam,NO
+Grays Harbor,027,McCleary,41225,0728,2411061,02411061,City of McCleary,NO
+Grays Harbor,027,Montesano,46895,0795,2411147,02411147,City of Montesano,NO
+Grays Harbor,027,Oakville,50430,0900,2411298,02411298,City of Oakville,NO
+Grays Harbor,027,Ocean Shores,50570,0907,2411300,02411300,City of Ocean Shores,NO
+Grays Harbor,027,Westport,77630,1420,2412243,02412243,City of Westport,NO
+Island,029,Coupeville,15185,0290,2412377,02412377,Town of Coupeville,NO
+Island,029,Langley,38355,0670,2411623,02411623,City of Langley,NO
+Island,029,Oak Harbor,50360,0895,2411287,02411287,City of Oak Harbor,NO
+Jefferson,031,Port Townsend,55855,1005,2411468,02411468,City of Port Townsend,NO
+King,033,Algona,01290,0020,2409680,02409680,City of Algona,NO
+King,033,Auburn,03180,0055,2409755,02409755,City of Auburn,YES
+King,033,Beaux Arts Village,04895,0070,2411673,02411673,Town of Beaux Arts Village,NO
+King,033,Bellevue,05210,0075,2409821,02409821,City of Bellevue,NO
+King,033,Black Diamond,06330,0095,2409855,02409855,City of Black Diamond,NO
+King,033,Bothell,07380,0110,2409882,02409882,City of Bothell,YES
+King,033,Burien  ,08850,0139,2409940,02409940,City of Burien,NO
+King,033,Carnation,10215,0155,2409989,02409989,City of Carnation,NO
+King,033,Clyde Hill,13365,0225,2409492,02409492,City of Clyde Hill,NO
+King,033,Covington,15290,0293,2410253,02410253,City of Covington,NO
+King,033,Des Moines,17635,0325,2410327,02410327,City of Des Moines,NO
+King,033,Duvall,19035,0335,2410377,02410377,City of Duvall,NO
+King,033,Enumclaw,22045,0410,2410448,02410448,City of Enumclaw,YES
+King,033,Federal Way,23515,0443,2410494,02410494,City of Federal Way,NO
+King,033,Hunts Point,32755,0570,2412782,02412782,Town of Hunts Point,NO
+King,033,Issaquah,33805,0590,2410123,02410123,City of Issaquah,NO
+King,033,Kenmore,35170,0609,2410181,02410181,City of Kenmore,NO
+King,033,Kent,35415,0615,2410185,02410185,City of Kent,NO
+King,033,Kirkland,35940,0625,2411552,02411552,City of Kirkland,NO
+King,033,Lake Forest Park,37270,0657,2411603,02411603,City of Lake Forest Park,NO
+King,033,Maple Valley,43150,0739,2411028,02411028,City of Maple Valley,NO
+King,033,Medina,44725,0760,2411071,02411071,City of Medina,NO
+King,033,Mercer Island,45005,0763,2411082,02411082,City of Mercer Island,NO
+King,033,Milton,46020,0785,2411114,02411114,City of Milton,YES
+King,033,Newcastle,48645,0858,2411243,02411243,City of Newcastle,NO
+King,033,Normandy Park,49415,0870,2411268,02411268,City of Normandy Park,NO
+King,033,North Bend,49485,0875,2411270,02411270,City of North Bend,NO
+King,033,Pacific,52495,0950,2411349,02411349,City of Pacific,YES
+King,033,Redmond,57535,1065,2411534,02411534,City of Redmond,NO
+King,033,Renton,57745,1070,2410926,02410926,City of Renton,NO
+King,033,Sammamish,61115,1136,2411772,02411772,City of Sammamish,NO
+King,033,SeaTac,62288,1139,2411855,02411855,City of SeaTac,NO
+King,033,Seattle,63000,1140,2411856,02411856,City of Seattle,NO
+King,033,Shoreline,63960,1169,2411893,02411893,City of Shoreline,NO
+King,033,Skykomish,64855,1175,2413295,02413295,Town of Skykomish,NO
+King,033,Snoqualmie,65205,1185,2411915,02411915,City of Snoqualmie,NO
+King,033,Tukwila,72625,1320,2412106,02412106,City of Tukwila,NO
+King,033,Woodinville  ,79590,1469,2412298,02412298,City of Woodinville,NO
+King,033,Yarrow Point,80150,1490,2413520,02413520,Town of Yarrow Point,NO
+Kitsap,035,Bainbridge Island,03736,0058,2409770,02409770,City of Bainbridge Island,NO
+Kitsap,035,Bremerton,07695,0115,2409899,02409899,City of Bremerton,NO
+Kitsap,035,Port Orchard,55785,1000,2411466,02411466,City of Port Orchard,NO
+Kitsap,035,Poulsbo,55995,1010,2411479,02411479,City of Poulsbo,NO
+Kittitas,037,Cle Elum,12945,0220,2409476,02409476,City of Cle Elum,NO
+Kittitas,037,Ellensburg,21240,0380,2410430,02410430,City of Ellensburg,NO
+Kittitas,037,Kittitas,36045,0630,2411553,02411553,City of Kittitas,NO
+Kittitas,037,Roslyn,60055,1120,2411001,02411001,City of Roslyn,NO
+Kittitas,037,South Cle Elum,65765,1205,2413305,02413305,Town of South Cle Elum,NO
+Klickitat,039,Bingen,06085,0090,2409850,02409850,City of Bingen,NO
+Klickitat,039,Goldendale,27435,0500,2410612,02410612,City of Goldendale,NO
+Klickitat,039,White Salmon,78330,1435,2412254,02412254,City of White Salmon,NO
+Lewis,041,Centralia,11160,0180,2409429,02409429,City of Centralia,NO
+Lewis,041,Chehalis,11475,0190,2409439,02409439,City of Chehalis,NO
+Lewis,041,Morton,47175,0800,2411171,02411171,City of Morton,NO
+Lewis,041,Mossyrock,47315,0810,2411175,02411175,City of Mossyrock,NO
+Lewis,041,Napavine,47980,0840,2411210,02411210,City of Napavine,NO
+Lewis,041,Pe Ell,53930,0975,2413122,02413122,Town of Pe Ell,NO
+Lewis,041,Toledo,71785,1300,2412077,02412077,City of Toledo,NO
+Lewis,041,Vader,73780,1345,2412140,02412140,City of Vader,NO
+Lewis,041,Winlock,79275,1455,2412283,02412283,City of Winlock,NO
+Lincoln,043,Almira,01500,0025,2412352,02412352,Town of Almira,NO
+Lincoln,043,Creston,15710,0295,2412386,02412386,Town of Creston,NO
+Lincoln,043,Davenport,16795,0310,2410295,02410295,City of Davenport,NO
+Lincoln,043,Harrington,29745,0545,2410706,02410706,City of Harrington,NO
+Lincoln,043,Odessa,50745,0910,2413073,02413073,Town of Odessa,NO
+Lincoln,043,Reardan,57465,1060,2412534,02412534,Town of Reardan,NO
+Lincoln,043,Sprague,67175,1225,2411958,02411958,City of Sprague,NO
+Lincoln,043,Wilbur,78680,1440,2413487,02413487,Town of Wilbur,NO
+Mason,045,Shelton,63735,1165,2411882,02411882,City of Shelton,NO
+Okanogan,047,Brewster,07835,0120,2409903,02409903,City of Brewster,NO
+Okanogan,047,Conconully,14310,0255,2413236,02413236,Town of Conconully,NO
+Okanogan,047,Coulee Dam,15115,0280,2413249,02413249,Town of Coulee Dam,YES
+Okanogan,047,Elmer City,21485,0390,2412478,02412478,Town of Elmer City,NO
+Okanogan,047,Nespelem,48540,0855,2413040,02413040,Town of Nespelem,NO
+Okanogan,047,Okanogan,50920,0915,2411309,02411309,City of Okanogan,NO
+Okanogan,047,Omak,51340,0925,2411320,02411320,City of Omak,NO
+Okanogan,047,Oroville,51970,0935,2411338,02411338,City of Oroville,NO
+Okanogan,047,Pateros,53720,0970,2411382,02411382,City of Pateros,NO
+Okanogan,047,Riverside,58795,1095,2412556,02412556,Town of Riverside,NO
+Okanogan,047,Tonasket,71890,1305,2412082,02412082,City of Tonasket,NO
+Okanogan,047,Twisp,73080,1330,2413408,02413408,Town of Twisp,NO
+Okanogan,047,Winthrop,79380,1465,2413503,02413503,Town of Winthrop,NO
+Pacific,049,Ilwaco,33000,0575,2410095,02410095,City of Ilwaco,NO
+Pacific,049,Long Beach,40070,0690,2410867,02410867,City of Long Beach,NO
+Pacific,049,Raymond,57430,1055,2411525,02411525,City of Raymond,NO
+Pacific,049,South Bend,65625,1195,2411933,02411933,City of South Bend,NO
+Pend Oreille,051,Cusick,16340,0300,2412397,02412397,Town of Cusick,NO
+Pend Oreille,051,Ione,33560,0585,2412795,02412795,Town of Ione,NO
+Pend Oreille,051,Metaline,45285,0770,2412989,02412989,Town of Metaline,NO
+Pend Oreille,051,Metaline Falls,45320,0775,2412990,02412990,Town of Metaline Falls,NO
+Pend Oreille,051,Newport,48820,0860,2411249,02411249,City of Newport,NO
+Pierce,053,Auburn,03180,0055,2409755,02409755,City of Auburn,YES
+Pierce,053,Bonney Lake,07170,0105,2409880,02409880,City of Bonney Lake,NO
+Pierce,053,Buckley,08570,0130,2409929,02409929,City of Buckley,NO
+Pierce,053,Carbonado,09970,0150,2413165,02413165,Town of Carbonado,NO
+Pierce,053,DuPont,18965,0330,2410373,02410373,City of DuPont,NO
+Pierce,053,Eatonville,20260,0360,2412463,02412463,Town of Eatonville,NO
+Pierce,053,Edgewood,20645,0362,2410400,02410400,City of Edgewood,NO
+Pierce,053,Enumclaw,22045,0410,2410448,02410448,City of Enumclaw,YES
+Pierce,053,Fife,23795,0450,2410502,02410502,City of Fife,NO
+Pierce,053,Fircrest,23970,0455,2410506,02410506,City of Fircrest,NO
+Pierce,053,Gig Harbor,26735,0490,2410588,02410588,City of Gig Harbor,NO
+Pierce,053,Lakewood,38038,0665,2411615,02411615,City of Lakewood,NO
+Pierce,053,Milton,46020,0785,2411114,02411114,City of Milton,YES
+Pierce,053,Orting,52005,0940,2411339,02411339,City of Orting,NO
+Pierce,053,Pacific,52495,0950,2411349,02411349,City of Pacific,YES
+Pierce,053,Puyallup,56695,1030,2411504,02411504,City of Puyallup,NO
+Pierce,053,Roy,60160,1125,2411010,02411010,City of Roy,NO
+Pierce,053,Ruston,60510,1130,2412586,02412586,City of Ruston,NO
+Pierce,053,South Prairie,66045,1210,2413310,02413310,Town of South Prairie,NO
+Pierce,053,Steilacoom,67770,1245,2413332,02413332,Town of Steilacoom,NO
+Pierce,053,Sumner,68435,1270,2412001,02412001,City of Sumner,NO
+Pierce,053,Tacoma,70000,1280,2412025,02412025,City of Tacoma,NO
+Pierce,053,University Place,73465,1343,2412136,02412136,City of University Place,NO
+Pierce,053,Wilkeson,78925,1445,2413489,02413489,Town of Wilkeson,NO
+San Juan,055,Friday Harbor,25615,0470,2412659,02412659,Town of Friday Harbor,NO
+Skagit,057,Anacortes,01990,0030,2409702,02409702,City of Anacortes,NO
+Skagit,057,Burlington,08920,0140,2409947,02409947,City of Burlington,NO
+Skagit,057,Concrete,14380,0260,2413237,02413237,Town of Concrete,NO
+Skagit,057,Hamilton,29255,0535,2412721,02412721,Town of Hamilton,NO
+Skagit,057,La Conner,36780,0650,2412852,02412852,Town of La Conner,NO
+Skagit,057,Lyman,40770,0705,2412927,02412927,Town of Lyman,NO
+Skagit,057,Mount Vernon,47560,0820,2411183,02411183,City of Mount Vernon,NO
+Skagit,057,Sedro-Woolley,63210,1150,2411859,02411859,City of Sedro-Woolley,NO
+Skamania,059,North Bonneville,49555,0877,2411271,02411271,City of North Bonneville,NO
+Skamania,059,Stevenson,67875,1250,2411980,02411980,City of Stevenson,NO
+Snohomish,061,Arlington,02585,0045,2409732,02409732,City of Arlington,NO
+Snohomish,061,Bothell,07380,0110,2409882,02409882,City of Bothell,YES
+Snohomish,061,Brier,07940,0127,2409909,02409909,City of Brier,NO
+Snohomish,061,Darrington,16690,0305,2412405,02412405,Town of Darrington,NO
+Snohomish,061,Edmonds,20750,0365,2410403,02410403,City of Edmonds,NO
+Snohomish,061,Everett,22640,0420,2410469,02410469,City of Everett,NO
+Snohomish,061,Gold Bar,27365,0495,2410608,02410608,City of Gold Bar,NO
+Snohomish,061,Granite Falls,27995,0525,2410643,02410643,City of Granite Falls,NO
+Snohomish,061,Index,33175,0580,2412790,02412790,Town of Index,NO
+Snohomish,061,Lake Stevens,37900,0664,2411607,02411607,City of Lake Stevens,NO
+Snohomish,061,Lynnwood,40840,0715,2410900,02410900,City of Lynnwood,NO
+Snohomish,061,Marysville,43955,0745,2411047,02411047,City of Marysville,NO
+Snohomish,061,Mill Creek,45865,0778,2411108,02411108,City of Mill Creek,NO
+Snohomish,061,Monroe,46685,0790,2411137,02411137,City of Monroe,NO
+Snohomish,061,Mountlake Terrace,47490,0815,2411187,02411187,City of Mountlake Terrace,NO
+Snohomish,061,Mukilteo,47735,0830,2411192,02411192,City of Mukilteo,NO
+Snohomish,061,Snohomish,65170,1180,2411913,02411913,City of Snohomish,NO
+Snohomish,061,Stanwood,67455,1235,2411971,02411971,City of Stanwood,NO
+Snohomish,061,Sultan,68260,1255,2411999,02411999,City of Sultan,NO
+Snohomish,061,Woodway,79835,1475,2412307,02412307,City of Woodway,NO
+Spokane,063,Airway Heights,00905,0010,2409668,02409668,City of Airway Heights,NO
+Spokane,063,Cheney,11825,0200,2409441,02409441,City of Cheney,NO
+Spokane,063,Deer Park,17320,0320,2410312,02410312,City of Deer Park,NO
+Spokane,063,Fairfield,22990,0430,2412612,02412612,Town of Fairfield,NO
+Spokane,063,Latah,38495,0675,2412879,02412879,Town of Latah,NO
+Spokane,063,Liberty Lake,39335,0684,2410834,02410834,City of Liberty Lake,NO
+Spokane,063,Medical Lake,44690,0755,2411070,02411070,City of Medical Lake,NO
+Spokane,063,Millwood,45985,0780,2413003,02413003,City of Millwood,NO
+Spokane,063,Rockford,59145,1100,2412562,02412562,Town of Rockford,NO
+Spokane,063,Spangle,66290,1215,2413311,02413311,City of Spangle,NO
+Spokane,063,Spokane,67000,1220,2411956,02411956,City of Spokane,NO
+Spokane,063,Spokane Valley,67167,1221,2411957,02411957,City of Spokane Valley,NO
+Spokane,063,Waverly,76720,1400,2413458,02413458,Town of Waverly,NO
+Stevens,065,Chewelah,12140,0205,2409444,02409444,City of Chewelah,NO
+Stevens,065,Colville,14170,0250,2410205,02410205,City of Colville,NO
+Stevens,065,Kettle Falls,35485,0620,2411540,02411540,City of Kettle Falls,NO
+Stevens,065,Marcus,43395,0740,2412955,02412955,Town of Marcus,NO
+Stevens,065,Northport,50045,0885,2413056,02413056,Town of Northport,NO
+Stevens,065,Springdale,67210,1230,2413320,02413320,Town of Springdale,NO
+Thurston,067,Bucoda,08605,0135,2411738,02411738,Town of Bucoda,NO
+Thurston,067,Lacey,36745,0643,2411588,02411588,City of Lacey,NO
+Thurston,067,Olympia,51300,0920,2411318,02411318,City of Olympia,NO
+Thurston,067,Rainier,57220,1050,2412521,02412521,City of Rainier,NO
+Thurston,067,Tenino,70630,1290,2412048,02412048,City of Tenino,NO
+Thurston,067,Tumwater,72905,1325,2412111,02412111,City of Tumwater,NO
+Thurston,067,Yelm,80220,1495,2412317,02412317,City of Yelm,NO
+Wahkiakum,069,Cathlamet,10635,0175,2413181,02413181,Town of Cathlamet,NO
+Walla Walla,071,College Place,13855,0235,2410192,02410192,City of College Place,NO
+Walla Walla,071,Prescott,56240,1015,2412506,02412506,City of Prescott,NO
+Walla Walla,071,Waitsburg,75565,1360,2412165,02412165,City of Waitsburg,NO
+Walla Walla,071,Walla Walla,75775,1365,2412168,02412168,City of Walla Walla,NO
+Whatcom,073,Bellingham,05280,0080,2409823,02409823,City of Bellingham,NO
+Whatcom,073,Blaine,06505,0100,2409860,02409860,City of Blaine,NO
+Whatcom,073,Everson,22745,0425,2410471,02410471,City of Everson,NO
+Whatcom,073,Ferndale,23620,0445,2410498,02410498,City of Ferndale,NO
+Whatcom,073,Lynden,40805,0710,2410899,02410899,City of Lynden,NO
+Whatcom,073,Nooksack,49275,0865,2411263,02411263,City of Nooksack,NO
+Whatcom,073,Sumas,68330,1265,2412000,02412000,City of Sumas,NO
+Whitman,075,Albion,01010,0015,2412345,02412345,Town of Albion,NO
+Whitman,075,Colfax,13785,0230,2410191,02410191,City of Colfax,NO
+Whitman,075,Colton,13890,0240,2413231,02413231,Town of Colton,NO
+Whitman,075,Endicott,21730,0395,2412488,02412488,Town of Endicott,NO
+Whitman,075,Farmington,23340,0440,2412622,02412622,Town of Farmington,NO
+Whitman,075,Garfield,26140,0480,2412669,02412669,Town of Garfield,NO
+Whitman,075,LaCrosse,36850,0655,2412853,02412853,Town of LaCrosse,NO
+Whitman,075,Lamont,38215,0668,2412875,02412875,Town of Lamont,NO
+Whitman,075,Malden,42275,0730,2412933,02412933,Town of Malden,NO
+Whitman,075,Oakesdale,50325,0890,2413067,02413067,Town of Oakesdale,NO
+Whitman,075,Palouse,52950,0955,2411364,02411364,City of Palouse,NO
+Whitman,075,Pullman,56625,1025,2411502,02411502,City of Pullman,NO
+Whitman,075,Rosalia,59775,1115,2412576,02412576,Town of Rosalia,NO
+Whitman,075,St. John,60860,1135,2412595,02412595,Town of St. John,NO
+Whitman,075,Tekoa,70560,1285,2412043,02412043,City of Tekoa,NO
+Whitman,075,Uniontown,73360,1340,2413413,02413413,Town of Uniontown,NO
+Yakima,077,Grandview,27925,0515,2410638,02410638,City of Grandview,NO
+Yakima,077,Granger,27960,0520,2410640,02410640,City of Granger,NO
+Yakima,077,Harrah,29710,0540,2412728,02412728,Town of Harrah,NO
+Yakima,077,Mabton,40980,0725,2410904,02410904,City of Mabton,NO
+Yakima,077,Moxee,47665,0825,2411188,02411188,City of Moxee,NO
+Yakima,077,Naches,47805,0835,2413032,02413032,Town of Naches,NO
+Yakima,077,Selah,63280,1155,2411862,02411862,City of Selah,NO
+Yakima,077,Sunnyside,68750,1275,2412008,02412008,City of Sunnyside,NO
+Yakima,077,Tieton,71400,1295,2413390,02413390,City of Tieton,NO
+Yakima,077,Toppenish,71960,1310,2412086,02412086,City of Toppenish,NO
+Yakima,077,Union Gap,73290,1335,2412131,02412131,City of Union Gap,NO
+Yakima,077,Wapato,76125,1375,2412178,02412178,City of Wapato,NO
+Yakima,077,Yakima,80010,1485,2412314,02412314,City of Yakima,NO
+Yakima,077,Zillah,80500,1500,2412331,02412331,City of Zillah,NO
+,,,,,,,,
